@@ -1,0 +1,146 @@
+{
+    "name": "theme-colorsublime",
+    "displayName": "Colorsublime Dark Theme Bundle",
+    "description": "Dark color theme bundle for VSCode. Themes are from or based to themes downloaded from http://colorsublime.com.",
+    "version": "0.0.1",
+    "publisher": "ristomatti",
+    "engines": {
+        "vscode": "*"
+    },
+    "categories": [ "Themes" ],
+    "contributes": {
+        "themes": [
+			{
+                "label": "1337",
+                "uiTheme": "vs-dark",
+                "path": "./themes/1337.tmTheme"
+            },
+			{
+                "label": "Amber",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Amber.tmTheme"
+            },
+			{
+                "label": "arstotzka",
+                "uiTheme": "vs-dark",
+                "path": "./themes/arstotzka.tmTheme"
+            },
+			{
+                "label": "Azure",
+                "uiTheme": "vs-dark",
+                "path": "./themes/azure.tmTheme"
+            },
+			{
+                "label": "CarbonightBlue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/CarbonightBlue.tmTheme"
+            },
+			{
+                "label": "Clouds Midnight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Clouds_Midnight.tmTheme"
+            },
+			{
+                "label": "Colonoscopy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Colonoscopy.tmTheme"
+            },
+			{
+                "label": "Dimmed Monokai No Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dimmed-monokai-no-contrast.tmTheme"
+            },
+			{
+                "label": "Dimmed Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dimmed-night.tmTheme"
+            },
+			{
+                "label": "FireCode",
+                "uiTheme": "vs-dark",
+                "path": "./themes/FireCode.tmTheme"
+            },
+			{
+                "label": "Focus Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Focus_Dark.tmTheme"
+            },
+			{
+                "label": "Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Green.tmTheme"
+            },
+			{
+                "label": "Half Life",
+                "uiTheme": "vs-dark",
+                "path": "./themes/HalfLife.tmTheme"
+            },
+			{
+                "label": "krTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/krTheme.tmTheme"
+            },
+			{
+                "label": "Legacy Pack",
+                "uiTheme": "vs-dark",
+                "path": "./themes/LegacyPack.tmTheme"
+            },
+			{
+                "label": "Legacy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/legacy.tmTheme"
+            },
+			{
+                "label": "Merbivore",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Merbivore.tmTheme"
+            },
+			{
+                "label": "Slate",
+                "uiTheme": "vs-dark",
+                "path": "./themes/slate.tmTheme"
+            },
+			{
+                "label": "Slime",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Slime.tmTheme"
+            },
+			{
+                "label": "Spectral",
+                "uiTheme": "vs-dark",
+                "path": "./themes/spectral.tmTheme"
+            },
+			{
+                "label": "Super",
+                "uiTheme": "vs-dark",
+                "path": "./themes/super.tmTheme"
+            },
+			{
+                "label": "Tonic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tonic.tmTheme"
+            },
+			{
+                "label": "Tribal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tribal.tmTheme"
+            },
+			{
+                "label": "Tribal Contrast",
+                "description": "Higher contrast edit.",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tribal-contrast.tmTheme"
+            },
+			{
+                "label": "Tron",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tron.tmTheme"
+            },
+			{
+                "label": "Turnip",
+                "uiTheme": "vs-dark",
+                "path": "./themes/turnip.tmTheme"
+            }
+        ]
+    }
+}
