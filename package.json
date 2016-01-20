@@ -105,6 +105,11 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/Slime.tmTheme"
             },
+      {
+                "label": "Slime Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Slime-darker.tmTheme"
+            },
 			{
                 "label": "Spectral",
                 "uiTheme": "vs-dark",
