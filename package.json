@@ -2,7 +2,7 @@
     "name": "theme-colorsublime",
     "displayName": "Colorsublime Dark Theme Bundle",
     "description": "Dark color theme bundle for VSCode. Themes are from or based to themes downloaded from http://colorsublime.com.",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "publisher": "ristomatti",
     "engines": {
         "vscode": "*"
