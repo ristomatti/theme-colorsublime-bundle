@@ -461,7 +461,9 @@
 				<key>fontStyle</key>
 				<string>normal</string>
 				<key>foreground</key>
-				<string>#2aa198</string> <!-- orange -->
+				<string>#657b83</string> <!-- base0 -->
+
+				<!--<string>#2aa198</string>  orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -497,6 +499,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#b58900</string> <!-- yellow -->
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Method parameter</string>
+			<key>scope</key>
+			<string>variable.parameter.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cb4b16</string> <!-- orange -->
 			</dict>
 		</dict>
 		<dict>
