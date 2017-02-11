@@ -12,7 +12,7 @@
 				<key>background</key>
 				<string>#141414</string>
 				<key>caret</key>
-				<string>#D30102</string>
+				<string>#eee8d5</string>
 				<key>foreground</key>
 				<string>#93A1A1</string>
 				<key>invisibles</key>
@@ -20,7 +20,39 @@
 				<key>lineHighlight</key>
 				<string>#212121</string>
 				<key>selection</key>
-				<string>#212121</string>
+				<string>#8a330f</string>
+				<key>ansiBlack</key>
+				<string>#141414</string>
+				<key>ansiRed</key>
+				<string>#dc322f</string>
+				<key>ansiGreen</key>
+				<string>#859900</string>
+				<key>ansiYellow</key>
+				<string>#b58900</string>
+				<key>ansiBlue</key>
+				<string>#268bd2</string>
+				<key>ansiMagenta</key>
+				<string>#d33682</string>
+				<key>ansiCyan</key>
+				<string>#2aa198</string>
+				<key>ansiWhite</key>
+				<string>#93a1a1</string>
+				<!--<key>ansiBrightBlack</key>
+				<string>#</string>
+				<key>ansiBrightRed</key>
+				<string>#</string>
+				<key>ansiBrightGreen</key>
+				<string>#</string>
+				<key>ansiBrightYellow</key>
+				<string>#cb4b16</string>
+				<key>ansiBrightBlue</key>
+				<string>#</string>
+				<key>ansiBrightMagenta</key>
+				<string>#</string>
+				<key>ansiBrightCyan</key>
+				<string>#</string>-->
+				<key>ansiBrightWhite</key>
+				<string>#eee8d5</string>
 			</dict>
 		</dict>
 		<dict>
